@@ -34,7 +34,7 @@ public class CamScanAcessActivity  {
 
         private final int REQ_CODE_PICK_IMAGE = 1;
         private final int REQ_CODE_CALL_CAMSCANNER = 2;
-        private static final String APP_KEY = "KLPt0gTtYUyP0fTXV8aH44e7";
+        private static final String APP_KEY = "KQEH6HfhePJaQd8h73TUA8HP";
 
         static final String DIR_IMAGE = Environment.getExternalStorageDirectory().getAbsolutePath();
 
